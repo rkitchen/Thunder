@@ -2,6 +2,11 @@
 /makefile
 /META-INF/
 
+.project
+.classpath
+org.eclipse.jdt.core.prefs
+.DS_Store
+
 *.class
 
 makefile

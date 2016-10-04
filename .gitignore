@@ -1,0 +1,7 @@
+/bin/
+/makefile
+/META-INF/
+
+*.class
+
+makefile
